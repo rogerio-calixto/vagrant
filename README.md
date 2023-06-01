@@ -1,5 +1,5 @@
 # vagrant
-create vm by vagrant
+create vm with ubuntu/nginx
 
 ## Note:
 
@@ -7,11 +7,16 @@ Vagrant relies on interactions with 3rd party systems, known as
 "providers", to provide Vagrant with resources to run development
 environments. Examples are VirtualBox, VMware, Hyper-V.
 
-# commands
+# some vangrant commands
 
-- vagrant init
+- vagrant init -> (Creates Vagrantfile template)
     - ex: vagrant init ubuntu/focal64
-- vagrant up
-- vagrant ssh
-- vagrant reload
-- vagrant destroy
+
+- vagrant up      -> creates vm
+- vagrant ssh     -> connects to vm
+- vagrant reload  -> updates vm
+- vagrant destroy -> destroy vm
+
+# Test
+
+After connect to vm, open browse and access: http://localhost:8080/
