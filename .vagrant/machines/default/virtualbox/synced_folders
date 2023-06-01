@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Fontes/codigos_particulares/portfolio-github/vagrant/website","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Fontes/codigos_particulares/portfolio-github/vagrant","disabled":false,"__vagrantfile":true}}}
