@@ -1,5 +1,5 @@
 # vagrant
-create vm with ubuntu/nginx
+Creates VM with Ubuntu/Nginx
 
 ## Note:
 
